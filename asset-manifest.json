@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/todo-routine-app/static/css/main.fccc54dc.chunk.css",
+    "main.js": "/todo-routine-app/static/js/main.fb9d268b.chunk.js",
+    "runtime-main.js": "/todo-routine-app/static/js/runtime-main.0c475621.js",
+    "static/js/2.2fbe07c3.chunk.js": "/todo-routine-app/static/js/2.2fbe07c3.chunk.js",
+    "index.html": "/todo-routine-app/index.html",
+    "precache-manifest.b5bebb6e2b2619aaf40a726604ef29f3.js": "/todo-routine-app/precache-manifest.b5bebb6e2b2619aaf40a726604ef29f3.js",
+    "service-worker.js": "/todo-routine-app/service-worker.js",
+    "static/js/2.2fbe07c3.chunk.js.LICENSE.txt": "/todo-routine-app/static/js/2.2fbe07c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c475621.js",
+    "static/js/2.2fbe07c3.chunk.js",
+    "static/css/main.fccc54dc.chunk.css",
+    "static/js/main.fb9d268b.chunk.js"
+  ]
+}
